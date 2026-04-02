@@ -1,15 +1,15 @@
-# Three Rivers Tech
+# Grovex Tech & Solutions LLC
 
 **Your hometown tech partner in Turtle Creek**  
 Big-city know-how at small-town prices. We live here, work here, and understand your needs.  
 - 📍 124 Grant Street, Turtle Creek, PA 15145  
 - 📞 (412) 206-9453
-- 📨 info@three-rivers-tech.com
+- 📨 info@grovex.com
 
 ---
 
 ## What We Do  
-At Three Rivers Tech, we provide **straightforward, transparent tech solutions** for families, seniors, and small businesses throughout the Mon Valley region.
+At Grovex, we provide **straightforward, transparent tech solutions** for families, seniors, and small businesses throughout the Mon Valley region.
 
 ### Our Key Services  
 - **Home & Personal Tech Support** — Computer repair, virus removal, Wi-Fi setup, smartphone training for seniors.  
@@ -46,4 +46,4 @@ This repository contains our internal tools, website source, templates, and docu
 ### Getting Started  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourorg/three-rivers-tech.git
+   git clone https://github.com/yourorg/grovex.git
