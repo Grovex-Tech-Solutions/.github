@@ -59,8 +59,6 @@ Turtle Creek, PA 15145
 
 ### 🧩 Legal
 
-Registered Pennsylvania Domestic LLC — Entity ID #0014556412  
-EIN 39-2912982  
 
 © 2025 Grovex Tech & Solutions LLC. All rights reserved.  
 We build it, host it, and stand behind it.
