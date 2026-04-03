@@ -1,8 +1,8 @@
-# 🏙️ Three Rivers Tech, LLC
+# 🏙️ Grovex Tech & Solutions LLC
 
 **Affordable technology, built with hometown pride in Turtle Creek, Pennsylvania.**
 
-At Three Rivers Tech, we believe world-class technology doesn’t have to come with world-class prices.  
+At Grovex Tech & Solutions, we believe world-class technology doesn’t have to come with world-class prices.  
 From a century-old building at **124 Grant Street**, we design, host, and maintain modern digital systems for small businesses, creators, and neighbors who just want tech that works — and people who actually pick up the phone.
 
 ---
@@ -48,12 +48,12 @@ We call it *industrial warmth*: copper wire meets ivy.
 
 ## 📍 Find Us
 
-**Three Rivers Tech, LLC**  
+**Grovex Tech & Solutions LLC**  
 124 Grant Street  
 Turtle Creek, PA 15145  
 
-📧 contact@three-rivers-tech.com  
-🌐 [www.three-rivers-tech.com](https://www.three-rivers-tech.com)  
+📧 cpenrod@grovextech.com  
+🌐 [www.grovextech.com](https://www.grovextech.com)  
 
 ---
 
@@ -62,7 +62,7 @@ Turtle Creek, PA 15145
 Registered Pennsylvania Domestic LLC — Entity ID #0014556412  
 EIN 39-2912982  
 
-© 2025 Three Rivers Tech, LLC. All rights reserved.  
+© 2025 Grovex Tech & Solutions LLC. All rights reserved.  
 We build it, host it, and stand behind it.
 
 ---
